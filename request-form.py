@@ -3,12 +3,52 @@ from tkinter import ttk
 from tkcalendar import *
 import json
 import win32com.client
+import tkinter.messagebox as messagebox
+
 
 def send_email():
+
+    AR = entry_AR.get()
+    if not AR:        
+        messagebox.showerror("Error", "AR is required")
+        return
+
+    project_manager = entry_project_manager.get()
+    network_number = entry_network_number.get()
+    TS = combo_TS.get()
+    if not TS:
+        messagebox.showerror("Error", "Transformer Station is required")
+        return
+    
+    team_lead = label_team_lead_value.cget('text')
+    DS = entry_DS.get()
+    date = entry_date.get()
+    gate = combo_gate.get()
+
+    links_value = links.get('1.0', 'end-1c')
+    comments_value = comments.get('1.0', 'end-1c')
+
+    resource_requested = []
+    if outage_planner.get():
+        resource_requested.append('Outage Planner')
+    if outage_coordinator.get():
+        resource_requested.append('Outage Coordinator')
+    if contractor_training.get():
+        resource_requested.append('Contractor Training')
+    if outage_planner_for_new_DG.get():
+        resource_requested.append('Outage Planner for New DG')
+
+    if not resource_requested:
+        messagebox.showerror("Error", "At least one resource is required")
+        return
+
+    
+
     try:
-        print('Sending email...')
         outlook_app = win32com.client.Dispatch('outlook.application')
         mail = outlook_app.CreateItem(0)
+
+        mail.Subject = 'Work Execution & UWPC Services Request Form'
 
         mail.display()
 
@@ -47,7 +87,7 @@ def TS_selected(e):
     label_team_lead_value.config(text=team_lead)
 
 def check_boxes_status():
-    root.after(1000, lambda: disactivate())
+    root.after(800, lambda: disactivate())
 
 def disactivate():
     print(outage_planner.get(), outage_coordinator.get(), contractor_training.get(), outage_planner_for_new_DG.get())
@@ -193,9 +233,13 @@ check_four = ttk.Checkbutton(labelframe_resource, text="Outage Planner for New D
 check_four.grid(row=4, column=0, padx=5, pady=5, sticky=W)
 
 check_one.bind("<1>", lambda e: check_boxes_status())
+check_one.bind("<space>", lambda e: check_boxes_status())
 check_two.bind("<1>", lambda e: check_boxes_status())
+check_two.bind("<space>", lambda e: check_boxes_status())
 check_three.bind("<1>", lambda e: check_boxes_status())
+check_three.bind("<space>", lambda e: check_boxes_status())
 check_four.bind("<1>", lambda e: check_boxes_status())
+check_four.bind("<space>", lambda e: check_boxes_status())
 
 ###########
 
