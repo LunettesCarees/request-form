@@ -227,4 +227,6 @@ comments['yscrollcommand'] = scrollbar.set
 btn_submit = ttk.Button(root, text='Submit', command=send_email)
 btn_submit.grid(row=3, column=0, pady=10, sticky=NE)
 
+
+
 root.mainloop()
