@@ -1,0 +1,2291 @@
+[
+    {
+        "Transformer Station": "Abitibi Canyon SS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Agincourt TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Aguasabon SS",
+        "AOR": "Lakehead",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Albion TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Alexander SS",
+        "AOR": "Lakehead",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Algoma TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Allanburg DESN TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Allanburg TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Alliston TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Almonte TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Andrews TS",
+        "AOR": "HOSSM",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Anjigami TS",
+        "AOR": "HOSSM",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Ansonville TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Arlen MTS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Armitage TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Arnprior TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Ashfield SS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Aylmer TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Barrett Chute SS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Barrie TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Barwick TS",
+        "AOR": "Lakehead",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Basin TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Beach TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Beamsville TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Beaverton TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Beck #1 SS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Beck #2 TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Belle River TS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Belleville TS",
+        "AOR": "Belleville",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Bilberry Creek TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Birch TS",
+        "AOR": "Lakehead",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Birmingham TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Blind River TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Bowmanville SS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Bracebridge TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Bramalea TS",
+        "AOR": "Trafalgar",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Brant TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Brantford TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Bridgman TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Bridlewood MTS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Brockville TS",
+        "AOR": "Belleville",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Bronte TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Brown Hill TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Bruce A TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Bruce B SS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Bruce HW Plant B TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Bruce HW Plant D TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Buchanan DESN TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Buchanan TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Bunting TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Burlington DESN TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Burlington TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Buttonville TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Caledonia TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Cambrian MTS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Campbell TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Cardiff TS",
+        "AOR": "Trafalgar",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Carlaw TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Carling TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Carlton TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Cat Lake MTS",
+        "AOR": "Lakehead",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Cataraqui TS",
+        "AOR": "Belleville",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Cavanagh MTS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Cecil TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Cedar TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Centralia TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Centre Point MTS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Chapleau MTS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Charles TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Chatham SS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Chats Falls SS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Chenaux TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Cherrywood TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Chesterville TS",
+        "AOR": "Belleville",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Chrysler WAP MTS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Churchill Meadows TS",
+        "AOR": "Trafalgar",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Claireville TS",
+        "AOR": "Trafalgar",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Clarabelle TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Clarington TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Clarke TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Cobden TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Cochrane MTS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Commerce Way TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Coniston TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Cooksville TS",
+        "AOR": "Trafalgar",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Copeland SS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Crawford TS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Crosby TS",
+        "AOR": "Belleville",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Crowland TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Crystal Falls SS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Crystal Falls TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Cumberland TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Cyrville MTS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "DeCew Falls SS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Des Joachims TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Detweiler TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Dobbin TS",
+        "AOR": "Belleville",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Douglas Point TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Dryden TS",
+        "AOR": "Lakehead",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Duart TS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Dufferin TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Dundas TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Dunnville TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Duplex TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Dymond TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Ear Falls TS",
+        "AOR": "Lakehead",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Edgeware TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Elgin TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Ellesmere TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Elliot Lake TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Ellwood MTS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Elmira TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Enfield TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Erindale TS",
+        "AOR": "Trafalgar",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Espanola TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Esplanade TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Essa TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Essex TS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Everett TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Evergreen SS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Fallowfield MTS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Fergus TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Ford Annex MTS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Fort Frances MTS",
+        "AOR": "Lakehead",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Fort Frances TS",
+        "AOR": "Lakehead",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Fort William TS",
+        "AOR": "Lakehead",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Freeport SS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Frontenac TS",
+        "AOR": "Belleville",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Gage TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Galt TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Gardiner TS",
+        "AOR": "Belleville",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Gartshore SS",
+        "AOR": "HOSSM",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Gerrard TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Glendale TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Glengrove TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Goderich TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Goreway TS",
+        "AOR": "Trafalgar",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Goulais Bay TS",
+        "AOR": "HOSSM",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Halton TS",
+        "AOR": "Trafalgar",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Hanlon TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Hanmer TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Hanover TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Havelock TS",
+        "AOR": "Belleville",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Hawthorne TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Hearn SS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Hearst TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Highbury TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Hinchey TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Hinchinbrooke SS",
+        "AOR": "Belleville",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Holland TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Horning TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Hunta SS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Hurontario SS",
+        "AOR": "Trafalgar",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Hwy 101 SS",
+        "AOR": "HOSSM",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Ingersoll TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Jarvis TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Jim Yarrow MTS",
+        "AOR": "Trafalgar",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Kalar MTS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Kapuskasing TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Karn TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Keith TS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Kenilworth TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Kenora MTS",
+        "AOR": "Lakehead",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Kenora TS",
+        "AOR": "Lakehead",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Kent TS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "King Edward TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Kingsville TS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Kirkland Lake TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Kleinburg TS",
+        "AOR": "Trafalgar",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Lake TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Lakehead TS",
+        "AOR": "Lakehead",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Lakeshore TS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Lambton TS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Larchwood TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Lauzon TS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Leamington TS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Leaside TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Lennox TS",
+        "AOR": "Belleville",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Leslie TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Limebank MTS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Lincoln Heights TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Lindsay TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Lisgar TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Little Long SS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Longlac TS",
+        "AOR": "Lakehead",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Longueuil TS",
+        "AOR": "Belleville",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Longwood DESN TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Longwood TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Lorne Park TS",
+        "AOR": "Trafalgar",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Mackenzie TS",
+        "AOR": "Lakehead",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Magpie SS",
+        "AOR": "HOSSM",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Main TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Malden TS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Malvern TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Manitoulin TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Manitouwadge TS",
+        "AOR": "Lakehead",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Manordale MTS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Marathon TS",
+        "AOR": "Lakehead",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Marchwood MTS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Martindale TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Meadowvale TS",
+        "AOR": "Trafalgar",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Meaford TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Merivale MTS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Merivale TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Middleport TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Midhurst TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Milton SS",
+        "AOR": "Trafalgar",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Minden TS",
+        "AOR": "Belleville",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Mississagi TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Modeland TS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Mohawk TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Monteith SS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Morrisburg TS",
+        "AOR": "Belleville",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Moulton MTS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Murray TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "N.R.C. TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Nanticoke TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Napanee TS",
+        "AOR": "Belleville",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "National Research TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Nebo TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Nelson TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Nepean Epworth MTS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Nepean TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Newton TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Nia Mohwk Harpers TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Niagara TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Niagara West MTS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Norfolk TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Nova SS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Orangeville TS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Orillia TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Orleans TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Oshawa G.M. TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Oshawa TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Otonabee TS",
+        "AOR": "Belleville",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Overbrook TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Owen Sound TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Palermo TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Palmerston TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Pamour TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Parks TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Parry Sound TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Patrick St TS",
+        "AOR": "HOSSM",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Pembroke TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Pickering A SS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Pickering B SS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Pickle Lake SS",
+        "AOR": "Lakehead",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Picton TS",
+        "AOR": "Belleville",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Pinard TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Pine Portage SS",
+        "AOR": "Lakehead",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Pleasant TS",
+        "AOR": "Trafalgar",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Porcupine TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Port Colborne TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Port Hope TS",
+        "AOR": "Belleville",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Powerline MTS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Preston TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Rabbit Lake SS",
+        "AOR": "Lakehead",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Ramore TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Red Lake TS",
+        "AOR": "Lakehead",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Rexdale TS",
+        "AOR": "Trafalgar",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Richmond South MTS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Riverdale TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Rush MTS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Russell TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Sandusk SS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Sarnia Scott TS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Scarboro TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Scheifele MTS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Seaforth TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Seaton MTS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Sheppard TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Sidney TS",
+        "AOR": "Belleville",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Slater TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Smiths Falls TS",
+        "AOR": "Belleville",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Smoky Falls SS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "South March SS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "South March TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "South Middle Road TS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Spence SS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Spruce Falls TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "St. Marys MTS",
+        "AOR": "HOSSM",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "St.Andrews TS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "St.Isidore TS",
+        "AOR": "Belleville",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "St.Lawrence TS",
+        "AOR": "Belleville",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "St.Marys TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "St.Thomas TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Stanley Auto TS",
+        "AOR": "Trafalgar",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Stanley TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Stayner TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Stewartville TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Stirton TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Stratford TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Strathroy TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Summerhaven SS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Talbot TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Terauley TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Terrace Bay SS",
+        "AOR": "Lakehead",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Terry Fox MTS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Third Line TS",
+        "AOR": "HOSSM",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Thornton TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Thorold TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Thunder Bay SS",
+        "AOR": "Lakehead",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Tilbury TS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Tillsonburg TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Timmins TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Tomken TS",
+        "AOR": "Trafalgar",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Toronto Power TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Trafalgar DESN TS",
+        "AOR": "Trafalgar",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Trafalgar TS",
+        "AOR": "Trafalgar",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Tremaine TS",
+        "AOR": "Trafalgar",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Trout Lake TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Vansickle TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Wallace TS",
+        "AOR": "Belleville",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    },
+    {
+        "Transformer Station": "Wallaceburg TS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Wanstead TS",
+        "AOR": "Keith",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Warden TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Waubaushene TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Wawa TS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Whitby TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Whitedog Falls SS",
+        "AOR": "Lakehead",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Widdifield SS",
+        "AOR": "Hanmer",
+        "Region": "North",
+        "Team Lead": "Marc Duchesne",
+        "Email": "marc.duchesne2@hydroone.com"
+    },
+    {
+        "Transformer Station": "Wilson TS",
+        "AOR": "GTA-East",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Wingham TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Winona TS",
+        "AOR": "Niagara",
+        "Region": "HNZ",
+        "Team Lead": "Muhammad Murtza",
+        "Email": "muhammad.murtza@hydroone.com"
+    },
+    {
+        "Transformer Station": "Wonderland TS",
+        "AOR": "Buchanan",
+        "Region": "Southwest",
+        "Team Lead": "Rob Hunt",
+        "Email": "robert.hunt@hydroone.com"
+    },
+    {
+        "Transformer Station": "Woodbridge TS",
+        "AOR": "Trafalgar",
+        "Region": "Central",
+        "Team Lead": "Kris McCarthy",
+        "Email": "kris.mccarthy@hydroone.com"
+    },
+    {
+        "Transformer Station": "Woodroffe TS",
+        "AOR": "Merivale",
+        "Region": "East",
+        "Team Lead": "Robbie Kinloch",
+        "Email": "robbie.kinloch@hydroone.com"
+    }
+]
