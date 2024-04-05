@@ -44,7 +44,7 @@ def send_email():
     
     email_string = ""
     recipient = ""
-    email_HTMLbody = "<p>Hi {recipient},</p><p>There is a request for OP:</p><b>AR:</b> {AR}<b>Project Manager:</b> {project_manager}<b>Network Number:<b> {network_number}<b>Transformer Station:<b> {TS}<b>Distribution Station:<b> {DS}<b>Kick-Off Date:<b> {date}<b>Stage Gate:<b> {gate}<b>Links to Supporting Documentation:<b> {links_value}<b>Additional Comments:<b> {comments_value}"
+    email_HTMLbody = "<p>Hi {recipient},</p><p>There is a request for OP:</p><p><b>AR:</b> {AR}</p><p><b>Project Manager:</b> {project_manager}</p><p><b>Network Number:</b> {network_number}</p><p><b>Transformer Station:</b> {TS}</p><p><b>Distribution Station:</b> {DS}</p><p><b>Kick-Off Date:</b> {date}</p><p><b>Stage Gate:</b> {gate}</p><p><b>Links to Supporting Documentation:</b> {links_value}</p><p><b>Additional Comments:</b> {comments_value}</p>"
 
     with open('TS.json', 'r') as f:
         data = json.load(f)
