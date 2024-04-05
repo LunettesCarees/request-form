@@ -44,20 +44,40 @@ def send_email():
     
     email_string = ""
     recipient = ""
-    email_HTMLbody = "<p>Hi {recipient},<p><p>There is a request for OP:<p>AR: {AR}<br>Project Manager: {project_manager}<br>Network Number: {network_number}<br>Transformer Station: {TS}<br>Distribution Station: {DS}<br>Kick-Off Date: {date}<br>Stage Gate: {gate}<br>Links to Supporting Documentation: {links_value}<br>Additional Comments: {comments_value}<br>"
+    email_HTMLbody = "<p>Hi {recipient},<p><p>There is a request for OP:<p><b>AR:<b> {AR}<br><b>Project Manager:<b> {project_manager}<br><b>Network Number:<b> {network_number}<br><b>Transformer Station:<b> {TS}<br><b>Distribution Station:<b> {DS}<br><b>Kick-Off Date:<b> {date}<br><b>Stage Gate:<b> {gate}<br><b>Links to Supporting Documentation:<b> {links_value}<br><b>Additional Comments:<b> {comments_value}<br>"
 
-    with open(TS.json, 'r') as f:
+    with open('TS.json', 'r') as f:
         data = json.load(f)
 
-    
+    planner = [item['Team Lead'] for item in data if item['Transformer Station'] == TS][0]
 
-    
+    planner_email = [item['Email'] for item in data if item['Transformer Station'] == TS][0]
+
+    if 'Outage Planner' in resource_requested:
+        email_string = planner_email + ";"
+        recipient = planner.split()[0]
+    elif 'Outage Coordinator' in resource_requested:
+        email_string = "Darrel.Davies@HydroOne.com;"
+        recipient = "Darrel"
+    elif 'Contractor Training' in resource_requested or ('Outage Planner' in resource_requested and 'Contractor Training' in resource_requested):
+        email_string = planner_email + "; Shane.Suppa@HydroOne.com"
+        recipient = "Shane & " + planner.split()[0]
+    elif 'Outage Planner for New DG' in resource_requested:
+        email_string = "Patrick.OGrady@HydroOne.com"
+    elif 'Outage Planner' in resource_requested and 'Outage Coordinator' in resource_requested:
+        email_string = planner_email + "; Darrel.Davies@HydroOne.com"
+        recipient = planner.split()[0] + " & Darrel"
+    elif 'Outage Coordinator' in resource_requested and 'Contractor Training' in resource_requested:
+        email_string = planner_email + "; Darrel.Davies@HydroOne.com; Shane.Suppa@HydroOne.com"
+        recipient = planner.split()[0] + ", Darrel & Shane"    
 
     try:
         outlook_app = win32com.client.Dispatch('outlook.application')
         mail = outlook_app.CreateItem(0)
 
         mail.Subject = 'Work Execution & UWPC Services Request Form'
+        mail.To = email_string
+        mail.HTMLBody = email_HTMLbody.format(recipient=recipient, AR=AR, project_manager=project_manager, network_number=network_number, TS=TS, team_lead=team_lead, DS=DS, date=date, gate=gate, links_value=links_value, comments_value=comments_value)
 
         mail.display()
 
