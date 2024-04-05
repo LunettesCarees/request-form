@@ -41,6 +41,15 @@ def send_email():
     if not resource_requested:
         messagebox.showerror("Error", "At least one resource is required")
         return
+    
+    email_string = ""
+    recipient = ""
+    email_HTMLbody = "<p>Hi {recipient},<p><p>There is a request for OP:<p>AR: {AR}<br>Project Manager: {project_manager}<br>Network Number: {network_number}<br>Transformer Station: {TS}<br>Distribution Station: {DS}<br>Kick-Off Date: {date}<br>Stage Gate: {gate}<br>Links to Supporting Documentation: {links_value}<br>Additional Comments: {comments_value}<br>"
+
+    with open(TS.json, 'r') as f:
+        data = json.load(f)
+
+    
 
     
 
