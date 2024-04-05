@@ -120,21 +120,17 @@ def check_boxes_status():
     root.after(800, lambda: disactivate())
 
 def disactivate():
-    print(outage_planner.get(), outage_coordinator.get(), contractor_training.get(), outage_planner_for_new_DG.get())
     if outage_planner.get() or outage_coordinator.get() or contractor_training.get():
         check_four.config(state=DISABLED)
-        print('one')
     elif outage_planner_for_new_DG.get():
         check_one.config(state=DISABLED)
         check_two.config(state=DISABLED)
         check_three.config(state=DISABLED)
-        print('two')
     elif not outage_planner.get() and not outage_coordinator.get() and not contractor_training.get() and not outage_planner_for_new_DG.get():
         check_one.config(state=NORMAL)
         check_two.config(state=NORMAL)
         check_three.config(state=NORMAL)
         check_four.config(state=NORMAL)
-        print('three')
 
 root = Tk()
 
