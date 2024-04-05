@@ -62,8 +62,12 @@ def send_email():
         request = 'OC'
         email_string = "Darrel.Davies@HydroOne.com;"
         recipient = "Darrel"
-    elif 'Contractor Training' in resource_requested and not 'Outage Coordinator' in resource_requested:
+    elif 'Contractor Training' in resource_requested and not 'Outage Planner' in resource_requested and not 'Outage Coordinator' in resource_requested:
         request = 'Contractor Training'
+        email_string = planner_email + "; Shane.Suppa@HydroOne.com"
+        recipient = "Shane & " + planner.split()[0]
+    elif 'Contractor Training' in resource_requested and 'Outage Planner' in resource_requested and not 'Outage Coordinator' in resource_requested:
+        request = 'OP & Contractor Training'
         email_string = planner_email + "; Shane.Suppa@HydroOne.com"
         recipient = "Shane & " + planner.split()[0]
     elif 'Outage Planner for New DG' in resource_requested:
