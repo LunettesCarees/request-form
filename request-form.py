@@ -44,7 +44,7 @@ def send_email():
     
     email_string = ""
     recipient = ""
-    email_HTMLbody = "<p>Hi {recipient},<p><p>There is a request for OP:<p><b>AR:<b> {AR}<br><b>Project Manager:<b> {project_manager}<br><b>Network Number:<b> {network_number}<br><b>Transformer Station:<b> {TS}<br><b>Distribution Station:<b> {DS}<br><b>Kick-Off Date:<b> {date}<br><b>Stage Gate:<b> {gate}<br><b>Links to Supporting Documentation:<b> {links_value}<br><b>Additional Comments:<b> {comments_value}<br>"
+    email_HTMLbody = "<p>Hi {recipient},</p><p>There is a request for OP:</p><b>AR:</b> {AR}<b>Project Manager:</b> {project_manager}<b>Network Number:<b> {network_number}<b>Transformer Station:<b> {TS}<b>Distribution Station:<b> {DS}<b>Kick-Off Date:<b> {date}<b>Stage Gate:<b> {gate}<b>Links to Supporting Documentation:<b> {links_value}<b>Additional Comments:<b> {comments_value}"
 
     with open('TS.json', 'r') as f:
         data = json.load(f)
@@ -53,23 +53,23 @@ def send_email():
 
     planner_email = [item['Email'] for item in data if item['Transformer Station'] == TS][0]
 
-    if 'Outage Planner' in resource_requested:
-        email_string = planner_email + ";"
+    if 'Outage Planner' in resource_requested and not 'Outage Coordinator' in resource_requested and not 'Contractor Training' in resource_requested:
+        email_string = planner_email
         recipient = planner.split()[0]
-    elif 'Outage Coordinator' in resource_requested:
+    elif 'Outage Coordinator' in resource_requested and not 'Outage Planner' in resource_requested and not 'Contractor Training' in resource_requested:
         email_string = "Darrel.Davies@HydroOne.com;"
         recipient = "Darrel"
-    elif 'Contractor Training' in resource_requested or ('Outage Planner' in resource_requested and 'Contractor Training' in resource_requested):
+    elif 'Contractor Training' in resource_requested and not 'Outage Coordinator' in resource_requested:
         email_string = planner_email + "; Shane.Suppa@HydroOne.com"
         recipient = "Shane & " + planner.split()[0]
     elif 'Outage Planner for New DG' in resource_requested:
         email_string = "Patrick.OGrady@HydroOne.com"
-    elif 'Outage Planner' in resource_requested and 'Outage Coordinator' in resource_requested:
+    elif 'Outage Planner' in resource_requested and 'Outage Coordinator' in resource_requested and not 'Contractor Training' in resource_requested:
         email_string = planner_email + "; Darrel.Davies@HydroOne.com"
         recipient = planner.split()[0] + " & Darrel"
     elif 'Outage Coordinator' in resource_requested and 'Contractor Training' in resource_requested:
         email_string = planner_email + "; Darrel.Davies@HydroOne.com; Shane.Suppa@HydroOne.com"
-        recipient = planner.split()[0] + ", Darrel & Shane"    
+        recipient = planner.split()[0] + ", Darrel & Shane"
 
     try:
         outlook_app = win32com.client.Dispatch('outlook.application')
